@@ -1,3 +1,6 @@
 total 0
 -rw-r--r-- 1 ziggy 197609 0 Aug 25 21:56 some_file.txt
 -rw-r--r-- 1 ziggy 197609 0 Aug 25 21:56 some_other_file.txt
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1504       1    1504      23736  cons0     197609 21:07:32 /usr/bin/bash
+     2119    1504    2119      33692  cons0     197609 22:06:27 /usr/bin/ps
